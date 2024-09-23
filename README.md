@@ -28,3 +28,6 @@ Developed a feature-rich full-stack web application inspired by Airbnb, leveragi
 🚧 Challenges & Solutions:
 Encountered challenges, especially with data handling, but implemented efficient solutions. Overcame scalability issues with a well-architected backend
 
+
+Project link 🔗 -
+https://wanderlust-web-application-zjk0.onrender.com/listings
